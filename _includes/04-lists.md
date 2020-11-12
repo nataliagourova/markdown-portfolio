@@ -1,1 +1,7 @@
-Replace this with a list of your favorite things.
+I am interested in 
+* software development
+  - coud technologies
+  - web applications
+  - architecture
+* new products and platforms
+* technical program management
